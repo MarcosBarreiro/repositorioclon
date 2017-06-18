@@ -1,0 +1,4 @@
+Vale, primero se modifica el archivo con nano
+Despues se pone Add para seguir el archivo
+Luego se hace commit -m " con el comentario en cuestion" o commit sin comentario para confirmar
+Luego se hace push para subir el archivo al repositorioø
