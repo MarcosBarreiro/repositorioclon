@@ -1,2 +1,1 @@
-Esto sería una solucion a un error hecho en otra rama solo para este error 
-despues añado y confirmo 
+Estoy haciendo una nueva version para probar si va realmente
