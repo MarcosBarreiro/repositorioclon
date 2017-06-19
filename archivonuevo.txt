@@ -1,3 +1,7 @@
+
+
+
+Ahora mismo estoy haciendo una modificacion del archivo y posteriormente crearé una rama nueva llamada "ramita"
 Vale, primero se modifica el archivo con nano
 Despues se pone Add para seguir el archivo
 Luego se hace commit -m " con el comentario en cuestion" o commit sin comentario para confirmar
